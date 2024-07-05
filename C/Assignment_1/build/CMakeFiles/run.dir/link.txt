@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/run.dir/main.c.o CMakeFiles/run.dir/src/Assignment_1.c.o -o run
