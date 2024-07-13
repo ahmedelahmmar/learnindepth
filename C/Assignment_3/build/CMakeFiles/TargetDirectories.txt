@@ -1,0 +1,3 @@
+/mnt/c/Projects/Software/Repositories/learnindepth/C/Assignment_3/build/CMakeFiles/run.dir
+/mnt/c/Projects/Software/Repositories/learnindepth/C/Assignment_3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Projects/Software/Repositories/learnindepth/C/Assignment_3/build/CMakeFiles/rebuild_cache.dir
