@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "assignment_2.h": "c"
+        "assignment_2.h": "c",
+        "assignment_3.h": "c",
+        "stdio.h": "c"
     }
 }
